@@ -1,7 +1,7 @@
 # ARD-RepeaterList
-The open, community-maintained master dataset of amateur and GMRS radio repeaters in the United States. Available in JSON and CSV.
+The open, community-maintained master dataset of Amateur and GMRS radio repeaters in the United States. Available in JSON and CSV.
 
-Part of the Amateur Repeater Directory project — free, verified, and community-powered.
+Part of the Amateur Repeater Directory project — Free, Verified, Community Maintained.
 
 📘 Overview
 ARD-RepeaterList contains structured data files representing publicly available Amateur Radio and GMRS repeater information. These files power ARD’s API, mapping tools, and search interfaces. This repository is the canonical source of truth for all repeaters listed in the project.
