@@ -11,7 +11,7 @@ Unlike proprietary directories, all data here is open, auditable, and can be fre
 📜 License
 All data in this repository is licensed under the Creative Commons CC0 1.0 Universal (Public Domain Dedication).
 
-The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work we've created and dedicates it to the world-wide public domain. We Use the CC0 to opt out of copyright entirely and ensure our work has the widest reach.
+The "Creative Commons CC0 Public Domain Dedication" waives copyright interest in the data contained within this Repository (ARD-RepeaterList) and dedicates it to the world-wide public domain. We Use the CC0 to opt out of copyright entirely and ensure our work has the widest reach.
 
 You are free to copy, modify, distribute and use the data for any purpose, without asking permission.
 
