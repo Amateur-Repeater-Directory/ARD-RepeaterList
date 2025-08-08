@@ -1,20 +1,66 @@
-# ARD-RepeaterList
-The open, community-maintained master dataset of Amateur and GMRS radio repeaters in the United States. Available in JSON and CSV.
+# Repeater Data  
+**Free • Verified • Community-Maintained**
 
-Part of the Amateur Repeater Directory project — Free, Verified, Community Maintained.
+This repository contains the open, community-maintained master list of amateur radio repeaters for the Amateur Repeater Directory (ARD).  
+Our mission is to build the most accurate, transparent, and freely available repeater database in the United States — created by hams, for hams.
 
-📘 Overview
+## State Progress
+We’re tracking progress toward completing all 50 states. A checkmark means that state’s data has been entered and verified.
 
-ARD-RepeaterList contains structured data files representing publicly available Amateur Radio and GMRS repeater information. These files power ARD’s API, mapping tools, and search interfaces. This repository is the canonical source of truth for all repeaters listed in the project.
+| State           | Status | State           | Status | State           | Status |
+|-----------------|--------|-----------------|--------|-----------------|--------|
+| Alabama         | ☐      | Kentucky        | ☐      | North Dakota    | ☐      |
+| Alaska          | ☐      | Louisiana       | ☑      | Ohio            | ☐      |
+| Arizona         | ☐      | Maine           | ☑      | Oklahoma        | ☐      |
+| Arkansas        | ☐      | Maryland        | ☐      | Oregon          | ☐      |
+| California      | ☑      | Massachusetts   | ☑      | Pennsylvania    | ☑      |
+| Colorado        | ☑      | Michigan        | ☐      | Rhode Island    | ☑      |
+| Connecticut     | ☑      | Minnesota       | ☑      | South Carolina  | ☐      |
+| Delaware        | ☐      | Mississippi     | ☐      | South Dakota    | ☐      |
+| Florida         | ☑      | Missouri        | ☐      | Tennessee       | ☐      |
+| Georgia         | ☐      | Montana         | ☐      | Texas           | ☐      |
+| Hawaii          | ☐      | Nebraska        | ☐      | Utah            | ☑      |
+| Idaho           | ☑      | Nevada          | ☐      | Vermont         | ☑      |
+| Illinois        | ☐      | New Hampshire   | ☑      | Virginia        | ☐      |
+| Indiana         | ☑      | New Jersey      | ☑      | Washington      | ☑      |
+| Iowa            | ☐      | New Mexico      | ☑      | West Virginia   | ☑      |
+| Kansas          | ☐      | New York        | ☑      | Wisconsin       | ☐      |
 
-Unlike proprietary directories, all data here is open, auditable, and can be freely used under the terms of the license below.
+☑ = Completed  ☐ = Not yet complete
 
-📜 License
+## How You Can Help
+We’re working toward **all 50 states** — and we need your help to get there.  
+If your state isn’t listed as complete above, you will soon be able to add repeaters through either:  
+- Bulk data submissions (both JSON and CSV formats will be published soon)  
+- The ARD web interface for adding or editing individual repeaters  
 
-All data in this repository is licensed under the Creative Commons CC0 1.0 Universal (Public Domain Dedication).
+### Important Data Policy
+T**You must not** copy repeater information from these proprietary sources:  
+1. RepeaterBook  
+2. Artsci Publishing  
 
-The "Creative Commons CC0 Public Domain Dedication" waives copyright interest in the data contained within this Repository (ARD-RepeaterList) and dedicates it to the world-wide public domain. We Use the CC0 to opt out of copyright entirely and ensure our work has the widest reach.
+Contributors should use publicly available information, direct coordination with repeater owners, and their own verified data.
 
-You are free to copy, modify, distribute and use the data for any purpose, without asking permission.
+## Data Format Example
+Each repeater entry follows this JSON structure:
 
-
+```json
+{
+  "repeaterId": "abcd-1234-efgh-5678",
+  "callsign": "W1ABC",
+  "outputFrequency": 146.940,
+  "inputFrequency": 146.340,
+  "offset": "-0.6",
+  "toneMode": "CTCSS",
+  "ctcssTx": 123.0,
+  "ctcssRx": 123.0,
+  "latitude": 42.3601,
+  "longitude": -71.0589,
+  "elevation": 234,
+  "state": "MA",
+  "county": "Suffolk",
+  "nearestCity": "Boston",
+  "notes": "Linked to W2XYZ network",
+  "isOperational": true,
+  "isOpen": true
+}
