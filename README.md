@@ -1,8 +1,7 @@
 # Repeater Data  
 **Free • Verified • Community-Maintained**
 
-This repository contains the open, community-maintained master list of amateur radio repeaters for the Amateur Repeater Directory (ARD).  
-Our mission is to build the most accurate, transparent, and freely available repeater database in the United States — created by hams, for hams.
+This repository contains the open, community-maintained master list of amateur radio repeaters for the Amateur Repeater Directory (ARD).  Our mission is to build the most accurate, transparent, and freely available repeater database in the United States — created by hams, for hams.
 
 ## State Progress
 We’re tracking progress toward completing all 50 states. A checkmark means that state’s data has been entered and verified.
