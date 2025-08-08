@@ -45,7 +45,6 @@ Each repeater entry follows this JSON structure:
 
 ```json
 {
-  "repeaterId": "abcd-1234-efgh-5678",
   "callsign": "W1ABC",
   "outputFrequency": 146.940,
   "inputFrequency": 146.340,
