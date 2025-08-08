@@ -1,4 +1,4 @@
-# Repeater Data  
+# Repeater Data (We need your help)
 **Free • Verified • Community-Maintained**
 
 This repository contains the open, community-maintained master list of amateur radio repeaters for the Amateur Repeater Directory (ARD).  Our mission is to build the most accurate, transparent, and freely available repeater database in the United States — created by hams, for hams.
