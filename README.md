@@ -50,21 +50,35 @@ Contributors should use publicly available information, direct coordination with
 Each repeater entry follows this JSON structure:
 
 ```json
-{
-  "callsign": "W1ABC",
-  "outputFrequency": 146.940,
-  "inputFrequency": 146.340,
-  "offset": "-0.6",
-  "toneMode": "CTCSS",
-  "ctcssTx": 123.0,
-  "ctcssRx": 123.0,
-  "latitude": 42.3601,
-  "longitude": -71.0589,
-  "elevation": 234,
-  "state": "MA",
-  "county": "Suffolk",
-  "nearestCity": "Boston",
-  "notes": "Linked to W2XYZ network",
-  "isOperational": true,
-  "isOpen": true
-}
+  {
+    "repeaterId": "fc802c7a-656d-404a-98e6-20801edf5610",
+    "transientId": 0,
+    "outputFrequency": 442.750000,
+    "inputFrequency": 447.750000,
+    "offset": 5.000,
+    "offsetSign": "+",
+    "band": "70cm",
+    "elevation": 34.000,
+    "aboveGroundLevel": 60.960,
+    "toneMode": "TSQL",
+    "ctcssTx": 0.00,
+    "ctcssRx": 103.50,
+    "isCrossTone": false,
+    "callsign": "N1FL",
+    "latitude": 28.6700000000,
+    "longitude": -81.3500000000,
+    "state": "Florida",
+    "county": "Seminole",
+    "nearestCity": "Altamonte Springs",
+    "isLatLongPrecise": false,
+    "isOperational": true,
+    "isOpen": true,
+    "isCoordinated": true,
+    "ares": false,
+    "races": false,
+    "skywarn": false,
+    "createdDate": "2025-08-16T19:47:46.8748557",
+    "updatedDate": "2025-08-16T19:47:46.8748557",
+    "hasLatLongError": false
+  }
+```
