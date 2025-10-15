@@ -14,22 +14,22 @@ We’re tracking progress toward completing all 50 states. A checkmark means tha
 
 | State           | Status | State           | Status | State           | Status |
 |-----------------|--------|-----------------|--------|-----------------|--------|
-| Alabama         | ☐      | Kentucky        | ☐      | North Dakota    | ☐      |
+| Alabama         | ☑      | Kentucky        | ☐      | North Dakota    | ☐      |
 | Alaska          | ☐      | Louisiana       | ☑      | Ohio            | ☐      |
-| Arizona         | ☐      | Maine           | ☑      | Oklahoma        | ☐      |
+| Arizona         | ☐      | Maine           | ☑      | Oklahoma        | ☑      |
 | Arkansas        | ☐      | Maryland        | ☐      | Oregon          | ☐      |
 | California      | ☑      | Massachusetts   | ☑      | Pennsylvania    | ☑      |
-| Colorado        | ☑      | Michigan        | ☐      | Rhode Island    | ☑      |
+| Colorado        | ☑      | Michigan        | ☑      | Rhode Island    | ☑      |
 | Connecticut     | ☑      | Minnesota       | ☑      | South Carolina  | ☐      |
 | Delaware        | ☐      | Mississippi     | ☐      | South Dakota    | ☐      |
 | Florida         | ☑      | Missouri        | ☐      | Tennessee       | ☐      |
 | Georgia         | ☐      | Montana         | ☐      | Texas           | ☐      |
 | Hawaii          | ☐      | Nebraska        | ☐      | Utah            | ☑      |
 | Idaho           | ☑      | Nevada          | ☐      | Vermont         | ☑      |
-| Illinois        | ☐      | New Hampshire   | ☑      | Virginia        | ☐      |
+| Illinois        | ☑      | New Hampshire   | ☑      | Virginia        | ☐      |
 | Indiana         | ☑      | New Jersey      | ☑      | Washington      | ☑      |
 | Iowa            | ☐      | New Mexico      | ☑      | West Virginia   | ☑      |
-| Kansas          | ☐      | New York        | ☑      | Wisconsin       | ☐      |
+| Kansas          | ☐      | New York        | ☑      | Wisconsin       | ☑      |
 
 ☑ = Completed  ☐ = Not yet complete
 
