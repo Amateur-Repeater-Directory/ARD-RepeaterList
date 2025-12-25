@@ -40,7 +40,7 @@ If your state isn’t listed as complete above, you will soon be able to add rep
 - The ARD web interface for adding or editing individual repeaters  
 
 ### Important Data Policy
-T**You must not** copy repeater information from these proprietary sources:  
+**You must not** copy repeater information from these proprietary sources:  
 1. RepeaterBook  
 2. Artsci Publishing  
 
